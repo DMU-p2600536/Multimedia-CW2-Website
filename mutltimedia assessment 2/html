@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+    <!DOCTYPE html>
+    <html lang="en" dir="ltr">
+      <head>
+        <meta charset="utf-8">
+        <title></title>
+      </head>
+      <style>
+      p {
+        border: 2px solid black;
+        padding: 30px;
+      }
+      </style>
+    <body style="background-color:lightgreen;">
+
+  <marquee behavior="scroll" direction="left">Welcome to the Ruel Van Dijk Website. </marquee>
+  <img src="/Users/megangoodman/Documents/mutltimedia assessment 2/Images/Ruel logo.png" alt="Ruel Logo" style="float:right;width:70px;height:60px;">
+
+        <h1 style="text-align:center;">Ruel</h1>
+        <p style="text-align:center;"><body a link="black" vlink="red"><a href=/Users/megangoodman/Documents/mutltimedia assessment 2/html.Menu>Menu</a>
+</p>
+<h1 style="color:black;font-size:150%;">
+<img src="/Users/megangoodman/Documents/mutltimedia assessment 2/Images/Ruel.jpg" alt="ruel.com" width="200" height="200">
+<p style="font-family:courier;"
+<p style="text-align:right;">Ruel Vincent van Dijk, known mononymously as Ruel, is a British-Australian singer and songwriter from Sydney, best known for his singles "Don't Tell Me", "Younger", "As Long As You Care" and "Painkiller". At the ARIA Music Awards of 2018 he won the award for Breakthrough Artist for his single "Dazed & Confused</p>
+<p>
+
+<a href="https://www.buzzfeed.com/jommadg/how-well-do-you-know-ruel-pdljs99of" style="text-align:center;">Click to find out how well you know Ruel?</a>
+<p>
+  P-2600536
+  <style>
+body {
+  background-image: url('/Users/megangoodman/Documents/mutltimedia assessment 2/Images/RUEL background image 2.jpg');
+}
+</style>
+      </body>
+    </html>
